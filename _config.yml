@@ -1,0 +1,28 @@
+name: Amber van den Hil
+favicon: null
+layout_spectrum: 0.8226798456162214
+typography_spectrum: 0.7942837013397366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1262007663026452
+  lightness: 0.09472898533567786
+  saturation: 0.9736700190696865
+  rhythmicContrast: 0.7764309828635305
+purpose: []
